@@ -1,0 +1,59 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_94F51D85_8618_3ECF_41D5_6237DA01747E.source = https://g1.globo.com/?utm_source=globo.com&utm_medium=header
+PopupWebFrameBehaviour_946E2AEC_8608_3A5C_41D2_58B425DE73DA.url = https://g1.globo.com/?utm_source=globo.com&utm_medium=header
+
+## Hotspot
+
+### Tooltip
+FramePanoramaOverlay_97A75CE5_8618_1E4C_41D4_01649AB5E15C.toolTip = globo \
+
+
+### URL
+FramePanoramaOverlay_97A75CE5_8618_1E4C_41D4_01649AB5E15C.url = https://g1.globo.com/?utm_source=globo.com&utm_medium=header
+
+## Media
+
+### Audio
+audiores_8A7AA02F_8618_05DC_41B5_11FBF7C91A8C.mp3Url = media/audio_8A2398AF_8608_06DB_41DE_2411EB2191F8_pt.mp3
+audiores_8AEE2F3B_8618_3A3B_41C9_B55CA789A4B0.mp3Url = media/audio_8AF94BBB_8618_1AC4_41DA_7DCB986B95EF_pt.mp3
+
+### Image
+imlevel_9580A43A_8678_0DC4_41D3_E551C6716C5A.url = media/popup_94BE51F5_8678_064C_41D9_05F80379F0EB_pt_0_0.jpg
+imlevel_9587A43D_8678_0E3C_41B6_F84ADBBA4871.url = media/popup_94BE51F5_8678_064C_41D9_05F80379F0EB_pt_0_1.jpg
+imlevel_9587C43E_8678_0E3C_41D6_BDD6C0FDF001.url = media/popup_94BE51F5_8678_064C_41D9_05F80379F0EB_pt_0_2.jpg
+
+### Popup Image
+
+### Title
+video_9405C14F_8608_065C_41B8_8248705D03EC.label = Design sem nome (2)
+video_979F552A_8608_0FDA_41DB_14F18B6AD015.label = Design sem nome (3)
+panorama_8917506D_85F8_065C_41DA_0FFCDA349A37.label = Foto 1
+panorama_8E56EAD7_85F8_1A4B_41CF_2A4DFAA68E4E.label = Foto 2
+album_94C05000_8678_05C4_41DA_1FAA869723A8_0.label = IMG_20221106_105651_00_026_2022-11-15_11-06-58_screenshot
+album_94C05000_8678_05C4_41DA_1FAA869723A8.label = Álbum de Fotos IMG_20221106_105651_00_026_2022-11-15_11-06-58_screenshot
+
+### Video
+videolevel_85EF5D24_8B59_B5F3_41B0_3A97C64375FC.posterURL = media/video_9405C14F_8608_065C_41B8_8248705D03EC_poster_pt.jpg
+videolevel_85EF5D24_8B59_B5F3_41B0_3A97C64375FC.url = media/video_9405C14F_8608_065C_41B8_8248705D03EC_pt.mp4
+videolevel_85ECDCF1_8B59_B455_41D6_AD0407F46EF3.posterURL = media/video_979F552A_8608_0FDA_41DB_14F18B6AD015_poster_pt.jpg
+videolevel_85ECCCF1_8B59_B458_41D9_BD08DA5238C2.posterURL = media/video_979F552A_8608_0FDA_41DB_14F18B6AD015_poster_pt.jpg
+videolevel_85ECDCF1_8B59_B455_41D6_AD0407F46EF3.url = media/video_979F552A_8608_0FDA_41DB_14F18B6AD015_pt.m3u8
+videolevel_85ECCCF1_8B59_B458_41D9_BD08DA5238C2.url = media/video_979F552A_8608_0FDA_41DB_14F18B6AD015_pt.mp4
+
+## Skin
+
+### Image
+Image_9295AD13_8608_3FC4_41BA_923A4D8616C2.url = skin/Image_9295AD13_8608_3FC4_41BA_923A4D8616C2_pt.jpg
+Image_93C380F6_8608_064C_41DF_884B1D495EDC.url = skin/Image_93C380F6_8608_064C_41DF_884B1D495EDC_pt.jpg
+
+## Tour
+
+### Description
+tour.description = Agência: ALX Digital 
+
+### Title
+tour.name = Kiko Sorvete
